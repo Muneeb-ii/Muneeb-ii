@@ -1,6 +1,6 @@
 👋 Hi, I’m Muneeb Azfar Nafees!
 
-As a computer science student, I’m passionate about using AI to tackle real-world challenges. My interests span AI, data science, and chatbot development, and I enjoy building projects that combine creativity with technical depth.
+As a computer science student, I’m passionate about using AI to tackle real-world challenges. My interests span AI, data science, machine learning, and deep learning. I enjoy building projects that combine creativity with technical depth.
 
 ## What I’m Working On:
 - **AI Projects**: Developing sentiment analysis models and exploring natural language processing (NLP).
