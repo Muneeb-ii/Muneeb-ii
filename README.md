@@ -1,6 +1,6 @@
 👋 Hi, I’m Muneeb Azfar Nafees!
 
-I'm a computer science student passionate about leveraging AI to solve real-world problems. My interests include AI, data science, machine learning, and deep learning. 
+I'm a computer science and mathematical science student at Colby College. I am passionate about leveraging AI to solve real-world problems. My interests include AI, data science, machine learning, and deep learning. 
 
 ## What I’ve Worked On:
 - **Sentiment Analysis Models**: Developed sentiment analysis models using Bag of Words and TF-IDF.
