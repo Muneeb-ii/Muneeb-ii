@@ -1,17 +1,18 @@
 👋 Hi, I’m Muneeb Azfar Nafees!
 
-As a computer science student, I’m passionate about using AI to tackle real-world challenges. My interests span AI, data science, machine learning, and deep learning. I enjoy building projects that combine creativity with technical depth.
+I'm a computer science student passionate about leveraging AI to solve real-world problems. My interests include AI, data science, machine learning, and deep learning. 
 
-## What I’m Working On:
-- **AI Projects**: Developing sentiment analysis models and exploring natural language processing (NLP).
-- **Chatbot Development**: Creating interactive chatbots with engaging personas.
-- **Data Analysis**: Using Python to extract insights from data and explore new datasets.
+## What I’ve Worked On:
+- **Sentiment Analysis Models**: Developed sentiment analysis models using Bag of Words and TF-IDF.
+- **Natural Language Processing (NLP)**: Explored text processing techniques with libraries like NLTK.
+
+## What I’m Currently Learning:
+- **Data Structures in Java**: Implementing ArrayLists, LinkedLists, Queues, Stacks, and more in projects that simulate real-world scenarios and games.
 
 ## Skills:
-- **Languages**: Python
-- **Libraries**: NLTK, NumPy
+- **Languages**: Python, Java
 
-Looking forward to connecting, collaborating, and learning together on innovative projects! 🚀
+Excited to connect, collaborate, and innovate! 🚀
 
 
 <!---
