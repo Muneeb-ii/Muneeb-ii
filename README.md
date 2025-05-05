@@ -7,7 +7,9 @@ I'm a computer science and mathematical science student at Colby College. I am p
 - **Natural Language Processing (NLP)**: Explored text processing techniques with libraries like NLTK.
 
 ## What I’m Currently Learning:
-- **Data Structures in Java**: Implementing ArrayLists, LinkedLists, Queues, Stacks, and more in projects that simulate real-world scenarios and games.
+- **Data Structures in Java**: Implementing ArrayLists, LinkedLists, Queues, Stacks, and more in projects that simulate real-world scenarios and games.  
+- **CryptoAnalyzer**: Building a Temporal Fusion Transformer (TFT) model trained on 365 days of cryptocurrency market data to forecast price trends and support portfolio management.  
+- **Financial Hub**: Developing a web-based personal finance app that lets users track expenses, set budgets, and visualize their financial health through interactive dashboards.  
 
 ## Skills:
 - **Languages**: Python, Java
